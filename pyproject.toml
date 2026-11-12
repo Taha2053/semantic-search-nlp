@@ -1,0 +1,19 @@
+[project]
+name = "semantic-search-nlp"
+version = "0.1.0"
+description = "Projet NLP / Master : Recherche Sémantique par Plongements Textuels (Semantic Search using Text Embeddings)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "torch",
+    "transformers",
+    "sentence-transformers",
+    "rank-bm25",
+    "scikit-learn",
+    "pandas",
+    "scipy",
+    "matplotlib",
+    "python-pptx",
+    "nbformat",
+    "ipykernel",
+]

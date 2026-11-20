@@ -16,4 +16,7 @@ dependencies = [
     "python-pptx",
     "nbformat",
     "ipykernel",
+    "nltk>=3.10.4",
+    "seaborn>=0.13.2",
+    "nbconvert>=7.17.2",
 ]
